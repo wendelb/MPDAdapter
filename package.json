@@ -1,0 +1,29 @@
+{
+  "name": "mpdadapter",
+  "version": "0.1.0",
+  "description": "An adapter to easily access and control mpd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendelb/MPDAdapter.git"
+  },
+  "keywords": [
+    "mpd",
+    "music",
+    "linux",
+    "adapter"
+  ],
+  "author": "Bernhard Wendel <bwendel@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wendelb/MPDAdapter/issues"
+  },
+  "homepage": "https://github.com/wendelb/MPDAdapter#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "mpd": "^1.3.0"
+  }
+}
